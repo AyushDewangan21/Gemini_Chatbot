@@ -37,5 +37,6 @@ This project introduces a React-based web application that functions as a clone 
 
 1. Clone the repository:
 
-   ```bash https://github.com/AyushDewangan21/Gemini_Chatbot
+   ```bash
+   https://github.com/AyushDewangan21/Gemini_Chatbot
 
